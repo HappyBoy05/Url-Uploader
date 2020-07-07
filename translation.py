@@ -9,7 +9,7 @@ Send - url | New Name.Extension
 Click For /help For More Details..
 
 Support HB4All @HB4All_Bot"""
-    RENAME_403_ERR = "Sorry. You are not permitted to rename this file. Use Renamer_Ro_Bot"
+    RENAME_403_ERR = "Sorry. You are not permitted to rename this file. Use @Renamer_Ro_Bot"
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "/help for Details"
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
